@@ -1,6 +1,6 @@
 # Awesome MQL4
 
-A Curated List of Awesome MQL4 Packages, Libraries and Script.
+A Curated List of Awesome MQL4 (MetaTrader 4) Packages, Libraries and Scripts.
 
 ### Contributing
 
@@ -11,8 +11,11 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 ### Contents
 
-- [Awesome MQL4](#awesome-mql4)
-    - [Bridges](#bridges)
+* [Awesome MQL4](#awesome-mql4)
+    * [Bridges](#bridges)
+    * [Editors](#editors)
+    * [Libraries](#libraries)
+    * [Tools](#tools)
 
 
 ## Bridges
@@ -32,17 +35,17 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 *Packages for working in other Editors then MetaEditor*
 
-### IntelliJ Idea
+**IntelliJ Idea**
 
 * [mqlidea](https://github.com/investflow/mqlidea) MQL4 plugin for Intellij Idea.
 
-### Sublime Text
+**Sublime Text**
 
 * [mql4](https://github.com/currencysecrets/mql4) MQL4 Snippets & Syntax for Sublime Text.
 * [sublimeMQL4compile](https://github.com/rchjp/sublimeMQL4compile) MQL4 compiler for Sublime Text 3
 * [mql4compiler](https://github.com/IlanFrumer/mql4compiler) MQL4 compiler for Sublime Text 3.
 
-### Vim
+**Vim**
 
 * [vim-mql4](https://github.com/vobornik/vim-mql4) Syntax Highlighting for Vim.
 
@@ -59,5 +62,7 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 
 ## Tools
+
+*Tools and Programs enhancing Workflows, improving Productivity, etc.*
 
 * [mt4-trade-copy](https://github.com/vobornik/mt4-trade-copy) Copy all trades from one to one or more Metatrader4 terminals
