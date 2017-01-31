@@ -20,7 +20,7 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 ## Bridges
 
-*Packages for letting MetaTrader work with other languages/software.*
+*Packages for letting MetaTrader4 work with other languages/software.*
 
 * [MQL4CSharp](https://github.com/jseparovic/MQL4CSharp) C# Library for Metatrader 4.
 * [MQL4Java](https://github.com/jseparovic/MQL4Java) Metatrader API for Java.
@@ -33,7 +33,7 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 ## Editors
 
-*Packages for working in other Editors then MetaEditor*
+*Packages for working in other Editors than MetaEditor*
 
 **IntelliJ Idea**
 
@@ -42,7 +42,7 @@ For additions to this list, please see the [contribution guidelines](https://git
 **Sublime Text**
 
 * [mql4](https://github.com/currencysecrets/mql4) MQL4 Snippets & Syntax for Sublime Text.
-* [sublimeMQL4compile](https://github.com/rchjp/sublimeMQL4compile) MQL4 compiler for Sublime Text 3
+* [sublimeMQL4compile](https://github.com/rchjp/sublimeMQL4compile) MQL4 compiler for Sublime Text 3.
 * [mql4compiler](https://github.com/IlanFrumer/mql4compiler) MQL4 compiler for Sublime Text 3.
 
 **Vim**
@@ -54,9 +54,9 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 *Scripts and Libraries enhancing MQL4 or make development easier*
 
-* [mql4-auth](https://github.com/sergeylukin/mql4-auth) Package for logging into accounts.
+* [mql4-auth](https://github.com/sergeylukin/mql4-auth) Package for login to your MT4 accounts.
 * [mql4-http](https://github.com/sergeylukin/mql4-http) HTTP Request Wrapper.
-* [md5-in-mql4](https://github.com/alexgu2015/md5-in-mql4) Chinese(?) Readme, but basically an md5() Function in MQL4.
+* [md5-in-mql4](https://github.com/alexgu2015/md5-in-mql4) Chinese(?) Readme, but basically a md5() Function in MQL4.
 * [mql4-mysql](https://github.com/sergeylukin/mql4-mysql) MySQL Wrapper.
 * [MQL4-Table](https://github.com/kenykau/MQL4-Table) A library for creating Tables.
 
@@ -65,4 +65,4 @@ For additions to this list, please see the [contribution guidelines](https://git
 
 *Tools and Programs enhancing Workflows, improving Productivity, etc.*
 
-* [mt4-trade-copy](https://github.com/vobornik/mt4-trade-copy) Copy all trades from one to one or more Metatrader4 terminals
+* [mt4-trade-copy](https://github.com/vobornik/mt4-trade-copy) Copy all trades from one to one or more Metatrader4 terminals.
