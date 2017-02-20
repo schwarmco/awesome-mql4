@@ -15,6 +15,7 @@ For additions to this list, please see the [contribution guidelines](https://git
     * [Bridges](#bridges)
     * [Editors](#editors)
     * [Libraries](#libraries)
+    * [Projects](#projects)
     * [Tools](#tools)
 
 
@@ -59,6 +60,13 @@ For additions to this list, please see the [contribution guidelines](https://git
 * [md5-in-mql4](https://github.com/alexgu2015/md5-in-mql4) Chinese(?) Readme, but basically a md5() Function in MQL4.
 * [mql4-mysql](https://github.com/sergeylukin/mql4-mysql) MySQL Wrapper.
 * [MQL4-Table](https://github.com/kenykau/MQL4-Table) A library for creating Tables.
+
+
+## Projects
+
+*Whole Projects in MQL4 or around MetaTrader4*
+
+* [EA31337](https://github.com/EA31337) Advanced Multi-Strategy Trading Robot (w/ Docker-Integration)
 
 
 ## Tools
