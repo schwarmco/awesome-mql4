@@ -67,6 +67,7 @@ For additions to this list, please see the [contribution guidelines](https://git
 *Whole Projects in MQL4 or around MetaTrader4*
 
 * [EA31337](https://github.com/EA31337) Advanced Multi-Strategy Trading Robot (w/ Docker-Integration)
+* [headless-metatrader4](https://hub.docker.com/r/nevmerzhitsky/headless-metatrader4/) Docker container with prepared environment to start a branded MetaTrader 4 Terminal with any EA/script via wine
 
 
 ## Tools
